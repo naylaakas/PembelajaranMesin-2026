@@ -1,0 +1,4 @@
+flask
+tensorflow-cpu
+numpy
+scikit-learn
